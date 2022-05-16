@@ -61,7 +61,7 @@ const App = () => {
                 <Header/>
                 <Container
                     style={{
-                        marginTop:'70px' //Захардкодил, простите. Через sx не получилось:)
+                        marginTop:'70px'
                     }}
                 >
                     <Search
